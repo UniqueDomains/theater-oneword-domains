@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .theater one-word domains from Uni
 
 **Public extract:** 9,731 rows · **Live catalog:** 9,730 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/theater`  
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,10 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| alpha.theater  | available | $19.99    | $83.99        | 90             | 54     | 5      | name.com          |
+| zero.theater   | available | $19.99    | $83.99        | 112            | 53     | 4      | name.com          |
 | air.theater    | resell    | $80.98    | —             | 84             | 49     | 3      | Sav.com, LLC      |
 | live.theater   | premium   | $500      | $500          | 108            | 56     | 4      | name.com          |
-| zero.theater   | available | $19.99    | $83.99        | 112            | 53     | 4      | name.com          |
+| alpha.theater  | available | $19.99    | $83.99        | 90             | 53     | 5      | name.com          |
 | health.theater | resell    | $80.98    | —             | 92             | 43     | 6      | Sav.com, LLC      |
 | travel.theater | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
 | fast.theater   | available | $19.99    | $83.99        | 82             | 53     | 4      | name.com          |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
