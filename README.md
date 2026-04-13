@@ -1,10 +1,10 @@
-# Available .THEATER One-Word Domains (9,730)
+# Available .THEATER One-Word Domains (9,731)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C731%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C730%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C731%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .theater one-word domains from Uni
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,731 rows · **Live catalog:** 9,730 domains
+**Public extract:** 9,731 rows · **Live catalog:** 9,731 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/theater`  
@@ -70,11 +70,11 @@ print(df.head())
 | alpha.theater  | available | $19.99    | $83.99        | 90             | 53     | 5      | name.com          |
 | health.theater | resell    | $80.98    | —             | 92             | 43     | 6      | Sav.com, LLC      |
 | travel.theater | premium   | $520      | $520          | 115            | 48     | 6      | namecheap         |
-| fast.theater   | available | $19.99    | $83.99        | 82             | 53     | 4      | name.com          |
-| free.theater   | resell    | —         | —             | 88             | 59     | 4      | Porkbun LLC       |
-| review.theater | premium   | $520      | $520          | 94             | 39     | 6      | namecheap         |
 | true.theater   | available | $19.99    | $83.99        | 86             | 52     | 4      | name.com          |
 | cloud.theater  | resell    | —         | —             | 70             | 59     | 5      | Sav.com, LLC - 2  |
+| review.theater | premium   | $520      | $520          | 94             | 39     | 6      | namecheap         |
+| fast.theater   | available | $19.99    | $83.99        | 82             | 52     | 4      | name.com          |
+| free.theater   | resell    | —         | —             | 88             | 57     | 4      | Porkbun LLC       |
 | blue.theater   | premium   | —         | —             | 92             | 99     | 4      | —                 |
 | one.theater    | available | $19.99    | $83.99        | 132            | 50     | 3      | name.com          |
 | smart.theater  | resell    | —         | —             | 74             | 56     | 5      | Sav.com, LLC      |
@@ -82,7 +82,7 @@ print(df.head())
 | abc.theater    | available | $80.98    | —             | 102            | 50     | 3      | namecheap         |
 | future.theater | resell    | —         | —             | 94             | 55     | 6      | Sav.com, LLC - 47 |
 | boss.theater   | premium   | —         | —             | 76             | 99     | 4      | —                 |
-| clear.theater  | available | $19.99    | $83.99        | 90             | 49     | 5      | name.com          |
+| simple.theater | available | $19.99    | $83.99        | 128            | 49     | 6      | name.com          |
 | local.theater  | resell    | —         | —             | 102            | 54     | 5      | OVH SAS           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,731-row public sample | 9,730 live domains                               |
+| 9,731-row public sample | 9,731 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
