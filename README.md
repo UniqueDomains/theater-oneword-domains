@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .theater one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,703 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,703 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,703 domains · **Median ask:** $25.27 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/theater`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,11 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| tips.theater          | available | $19.99    | —             | 80             | 26     | 4      | name.com  |
+| jewels.theater        | available | $19.99    | —             | 80             | 15     | 6      | name.com  |
+| ladies.theater        | available | $19.99    | —             | 80             | 17     | 6      | name.com  |
+| forces.theater        | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
+| toneup.theater        | available | $19.99    | —             | 80             | 5      | 7      | name.com  |
 | lets.theater          | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
 | jobs.theater          | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
 | stories.theater       | available | $19.99    | —             | 58             | 36     | 7      | name.com  |
@@ -79,11 +84,6 @@ print(df.head())
 | spaces.theater        | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
 | heroes.theater        | available | $19.99    | —             | 68             | 29     | 6      | name.com  |
 | quotes.theater        | available | $19.99    | —             | 58             | 29     | 6      | name.com  |
-| blocks.theater        | available | $19.99    | —             | 53             | 29     | 6      | name.com  |
-| cams.theater          | available | $19.99    | —             | 52             | 29     | 4      | name.com  |
-| dogs.theater          | available | $19.99    | —             | 76             | 28     | 4      | name.com  |
-| forms.theater         | available | $19.99    | —             | 54             | 28     | 5      | name.com  |
-| photos.theater        | available | $19.99    | —             | 54             | 28     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,703 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,703 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .theater domains. The range includes dictionary words, broad audience terms, and more brandable constructions such as tips.theater, finals.theater, ladies.theater, and forces.theater. For founders, the main question is whether the word is memorable, easy to say, and closely matched to a theater, media, venue, ticketing, or performance concept. For investors, the filter is tighter: favor words with clearer commercial use, cleaner semantics, and realistic resale appeal. With a median ask of 25.27, the key decision is not just entry price, but whether the word and extension work together cleanly enough to justify renewal and holding time.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that fit entertainment, venues, shows, or audiences
+- Check whether the keyword reads naturally with .theater
+- Low ask can help, but renewal fit still matters
+- Avoid awkward terms with weak commercial meaning
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
