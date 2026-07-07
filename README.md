@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .theater one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,705 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,705 domains · **Median ask:** $25.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,705 domains · **Median ask:** $21.88 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/theater`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/theater`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .THEATER one-word doma
 
 ### Files
 
-- `theater.csv` — public CSV extract (1,000 rows)
-- `theater.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `theater.csv`, public CSV extract (1,000 rows)
+- `theater.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| tips.theater          | available | $19.99    | —             | 80             | 26     | 4      | name.com  |
-| jewels.theater        | available | $19.99    | —             | 80             | 15     | 6      | name.com  |
-| ladies.theater        | available | $19.99    | —             | 80             | 17     | 6      | name.com  |
-| forces.theater        | available | $19.99    | —             | 82             | 12     | 6      | name.com  |
-| popup.theater         | available | $19.99    | —             | 84             | 28     | 6      | name.com  |
-| toneup.theater        | available | $19.99    | —             | 80             | 5      | 7      | name.com  |
-| lets.theater          | available | $19.99    | —             | 77             | 39     | 4      | name.com  |
-| jobs.theater          | premium   | $500      | —             | 79             | 42     | 4      | name.com  |
-| stories.theater       | available | $19.99    | —             | 58             | 36     | 7      | name.com  |
-| children.theater      | premium   | $123.75   | —             | 68             | 19     | 8      | name.com  |
-| aliens.theater        | available | $19.99    | —             | 56             | 35     | 6      | name.com  |
-| reservations.theater  | premium   | $250      | —             | 50             | 17     | 12     | name.com  |
-| etc.theater           | available | $19.99    | —             | 58             | 34     | 3      | name.com  |
-| VirginiaBeach.theater | premium   | $92.40    | $92.40        | 58             | 9      | 14     | namecheap |
-| Cats.theater          | available | $80.98    | —             | 59             | 33     | 4      | namecheap |
-| teams.theater         | available | $19.99    | —             | 62             | 32     | 5      | name.com  |
-| William.theater       | available | $80.98    | —             | 74             | 31     | 7      | namecheap |
-| letsgo.theater        | available | $19.99    | —             | 57             | 31     | 7      | name.com  |
-| spaces.theater        | available | $19.99    | —             | 54             | 30     | 6      | name.com  |
-| heroes.theater        | available | $19.99    | —             | 68             | 29     | 6      | name.com  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| add.theater       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| sports.theater    | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                 |
+| guide.theater     | premium   | $250      | —             | high           | low    | 5      | name.com                                    |
+| ale.theater       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
+| cinema.theater    | resell    | —         | —             | high           | low    | 6      | Go Montenegro Domains, LLC                  |
+| movie.theater     | premium   | $500      | —             | high           | low    | 5      | name.com                                    |
+| and.theater       | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
+| science.theater   | resell    | —         | —             | high           | medium | 7      | Name.com, Inc.                              |
+| canadian.theater  | premium   | $242      | $242          | high           | low    | 8      | namesilo                                    |
+| ane.theater       | available | $19.99    | $83.99        | low            | low    | 3      | name.com                                    |
+| virtual.theater   | resell    | —         | —             | medium         | medium | 7      | GoDaddy Online Services Cayman Islands Ltd. |
+| Ann.theater       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| community.theater | resell    | —         | —             | high           | medium | 9      | Spaceship, Inc.                             |
+| ask.theater       | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
+| bob.theater       | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
+| buy.theater       | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
+| cot.theater       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| dry.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com                                    |
+| far.theater       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
+| gee.theater       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .theater domains. The range includes dictionary words, broad audience terms, and more brandable constructions such as tips.theater, finals.theater, ladies.theater, and forces.theater. For founders, the main question is whether the word is memorable, easy to say, and closely matched to a theater, media, venue, ticketing, or performance concept. For investors, the filter is tighter: favor words with clearer commercial use, cleaner semantics, and realistic resale appeal. With a median ask of 25.27, the key decision is not just entry price, but whether the word and extension work together cleanly enough to justify renewal and holding time.
+This list covers 12,705 one-word .theater domain names, each built from a single word or compound term with no hyphens. Median ask across the set sits near $22, though individual pricing depends on word length, familiarity, and demand. Domains here range from concrete nouns like roastbeef and coffeeberry to action phrases like getlucky and givingbirth, making the extension a flexible fit for entertainment, arts, and lifestyle brands. When comparing names, weigh spelling simplicity, brand fit, and renewal cost before choosing a .theater domain.
 
-- Prefer words that fit entertainment, venues, shows, or audiences
-- Check whether the keyword reads naturally with .theater
-- Low ask can help, but renewal fit still matters
-- Avoid awkward terms with weak commercial meaning
+- 12,705 one-word .theater domain names in this selection
+- Median ask across the set sits near $22
+- Every name is a single word—no hyphens or strings
+- Examples: getlucky, preferences, roastbeef.theater
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
