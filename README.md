@@ -1,10 +1,10 @@
-# Available .THEATER One-Word Domains (21,835)
+# Available .THEATER One-Word Domains (22,998)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C835%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C998%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .theater one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **21,835 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,998 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 21,835 domains · **Median ask:** $25.00 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 22,998 domains · **Median ask:** $27.00 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/theater`
 **Best for:** founders, investors, studios
 
@@ -64,11 +64,14 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| half.theater      | available | $19.99    | —             | high           | low    | 4      | name.com                                    |
+| okay.theater      | available | $19.99    | $83.99        | high           | low    | 4      | name.com                                    |
+| beauty.theater    | available | $19.99    | —             | high           | low    | 6      | name.com                                    |
 | add.theater       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
 | sports.theater    | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                 |
 | guide.theater     | premium   | $250      | —             | high           | low    | 5      | name.com                                    |
 | ale.theater       | available | $19.99    | —             | medium         | low    | 3      | name.com                                    |
-| cinema.theater    | resell    | —         | —             | high           | low    | 6      | Go Montenegro Domains, LLC                  |
+| cinema.theater    | resell    | —         | —             | medium         | low    | 6      | Go Montenegro Domains, LLC                  |
 | movie.theater     | premium   | $500      | —             | high           | low    | 5      | name.com                                    |
 | and.theater       | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
 | science.theater   | resell    | —         | —             | medium         | medium | 7      | Name.com, Inc.                              |
@@ -81,9 +84,6 @@ print(df.head())
 | ass.theater       | available | $19.99    | $83.99        | low            | low    | 3      | name.com                                    |
 | bob.theater       | available | $19.99    | —             | high           | medium | 3      | name.com                                    |
 | buy.theater       | available | $65.99    | $65.99        | medium         | medium | 3      | namesilo                                    |
-| clx.theater       | available | $19.99    | $83.99        | low            | low    | 3      | name.com                                    |
-| cot.theater       | available | $19.99    | —             | high           | low    | 3      | name.com                                    |
-| dry.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 21,835 live domains                        |
+| 1,000-row public sample | 22,998 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
