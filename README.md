@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .theater one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 32,959 domains · **Median ask:** $42.36 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/theater`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| half.theater      | available | $19.99    | —             | high           | low    | 4      | name.com        |
-| nothing.theater   | available | $19.99    | —             | high           | low    | 7      | name.com        |
 | add.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | sports.theater    | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc     |
-| post.theater      | premium   | $500      | —             | high           | medium | 4      | name.com        |
+| club.theater      | premium   | $242      | $242          | high           | low    | 4      | namesilo        |
 | ale.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | real.theater      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
-| guide.theater     | premium   | $250      | —             | high           | low    | 5      | name.com        |
+| post.theater      | premium   | $500      | —             | high           | medium | 4      | name.com        |
 | and.theater       | available | $19.99    | —             | high           | medium | 3      | name.com        |
 | community.theater | resell    | —         | —             | high           | medium | 9      | Spaceship, Inc. |
-| european.theater  | premium   | $250      | —             | high           | low    | 8      | name.com        |
+| guide.theater     | premium   | $250      | —             | high           | low    | 5      | name.com        |
 | ane.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com        |
+| jewish.theater    | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo        |
 | ann.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| fashion.theater   | premium   | $242      | $242          | high           | medium | 7      | namesilo        |
+| ape.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com        |
+| are.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
 | ask.theater       | available | $19.99    | —             | high           | medium | 3      | name.com        |
-| ass.theater       | available | $19.99    | $83.99        | medium         | low    | 3      | name.com        |
-| clx.theater       | available | $19.99    | $83.99        | medium         | low    | 3      | name.com        |
-| con.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| cot.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| cow.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| dew.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| ass.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com        |
+| ate.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| bjp.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| boy.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
