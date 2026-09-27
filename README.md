@@ -1,10 +1,10 @@
-# Available .THEATER One-Word Domains (32,959)
+# Available .THEATER One-Word Domains (23,463)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C959%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C463%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .theater one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,959 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,463 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,959 domains · **Median ask:** $42.36 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 23,463 domains · **Median ask:** $46.31 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/theater`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| add.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| sports.theater    | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc     |
-| club.theater      | premium   | $242      | $242          | high           | low    | 4      | namesilo        |
-| ale.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| real.theater      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
-| post.theater      | premium   | $500      | —             | high           | medium | 4      | name.com        |
-| and.theater       | available | $19.99    | —             | high           | medium | 3      | name.com        |
-| community.theater | resell    | —         | —             | high           | medium | 9      | Spaceship, Inc. |
-| guide.theater     | premium   | $250      | —             | high           | low    | 5      | name.com        |
-| ane.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com        |
-| jewish.theater    | premium   | $78.54    | $78.54        | high           | low    | 6      | namesilo        |
-| ann.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| fashion.theater   | premium   | $242      | $242          | high           | medium | 7      | namesilo        |
-| ape.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com        |
-| are.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| ask.theater       | available | $19.99    | —             | high           | medium | 3      | name.com        |
-| ass.theater       | available | $19.99    | $83.99        | high           | low    | 3      | name.com        |
-| ate.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| bjp.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| boy.theater       | available | $19.99    | —             | high           | low    | 3      | name.com        |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| aim.theater        | available | $65.99    | $65.99        | high           | medium | 3      | namesilo         |
+| basic.theater      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| music.theater      | premium   | $500      | —             | high           | medium | 5      | name.com         |
+| amd.theater        | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| vegas.theater      | premium   | $512      | $512          | high           | low    | 5      | namesilo         |
+| atm.theater        | available | $67.98    | $80.98        | high           | low    | 3      | namecheap        |
+| auckland.theater   | premium   | $78.54    | $78.54        | high           | low    | 8      | namesilo         |
+| bey.theater        | available | $65.99    | $65.99        | medium         | low    | 3      | namesilo         |
+| conclusive.theater | premium   | $19.99    | —             | high           | low    | 10     | name.com         |
+| des.theater        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| din.theater        | available | $19.99    | $83.99        | high           | low    | 3      | name.com         |
+| eid.theater        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| gao.theater        | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| gur.theater        | available | $65.99    | $65.99        | medium         | low    | 3      | namesilo         |
+| hua.theater        | available | $65.99    | $65.99        | high           | low    | 3      | namesilo         |
+| ill.theater        | available | $67.98    | $80.98        | high           | low    | 3      | namecheap        |
+| jut.theater        | available | $19.99    | $83.99        | medium         | low    | 3      | name.com         |
+| lie.theater        | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| meg.theater        | available | $19.99    | $83.99        | high           | low    | 3      | name.com         |
+| nag.theater        | available | $67.98    | $80.98        | high           | low    | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,959 live domains                        |
+| 1,000-row public sample | 23,463 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .THEATER One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
